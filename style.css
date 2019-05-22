@@ -1,0 +1,110 @@
+body{
+font-family: Helvetica;
+}
+
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 5%;
+  text-align: center;
+}
+
+li {
+  display: inline;
+}
+
+a {
+text-decoration: none;
+padding: 25px;
+color: black;
+}
+
+a:hover{
+text-decoration: underline;
+color: #B3B879;
+}
+
+#tekst {
+text-align: center;
+margin-left: 30%;
+margin-right: 30%;
+text-align: justify;
+}
+
+h1 {
+margin-bottom: 2%;
+text-align: center;
+}
+
+h2 {
+margin-bottom: 2%;
+text-align: center;
+
+}
+
+button{
+margin-bottom: 10%;
+width: 20%;
+display: table;
+margin: auto;
+border: none;
+background-color: #B3B879;
+padding: 15px 32px;
+color: white;
+}
+
+button:hover {
+ background-color: #8A8E5E;
+}
+
+form{
+display: table;
+margin: auto;
+}
+
+input{
+  width: 100%;
+  padding: 15px;
+  margin: 8px 0;
+  box-sizing: border-box;
+  margin-bottom: 2%;
+}
+
+footer{
+position: fixed;
+left: 0;
+bottom: 0;
+width: 100%;
+background-color: #B3B879;
+color: white;
+}
+
+#footertekst{
+text-align: center;
+color: white;
+}
+
+#footertekst:hover{
+color: black;
+}
+
+iframe{
+display: block;
+margin: auto;
+}
+
+img{
+width: 150px;
+display: table;
+margin: auto;
+margin-bottom: 2%;
+}
+
+.afsendt{
+margin-bottom: 5%
+}
+
+#knap {
+margin-bottom: 5%
+}
